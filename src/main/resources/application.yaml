@@ -8,4 +8,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/PaulDang/SBG_Config_Server
+          default-label: main
